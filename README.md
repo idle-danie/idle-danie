@@ -2,5 +2,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idle-danie&layout=compact">
 <br>
 
-### Bachelor Degree Course of Digital Media & Software 
-#### This github is only for study that's not related to my main stack 
+<h2> Bachelor Degree Course of Digital Media & Software </h2>
+<h3> This github is only for study that's not related to my main stack </h3>
