@@ -13,8 +13,9 @@
   <br>
   <img src="https://img.shields.io/badge/googlebigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
   <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"> 
-
   <br>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
   <br>
   <br>
 </div>
