@@ -17,14 +17,18 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 
-  <h2> Big Data Framework </h2>
+  <h2> AI / Big Data Framework </h2>
+  <img src="https://img.shields.io/badge/langChain-006600?style=for-the-badge&logo=langchain&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/langgraph-006600?style=for-the-badge&logo=langgraph&logoColor=white"/> </br>
+  <img src="https://img.shields.io/badge/databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/apacheairflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/apachespark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
   <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 
   <h2> DB / DW </h2>
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> </br>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> </br>
   <img src="https://img.shields.io/badge/googlebigquery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white">
   <img src="https://img.shields.io/badge/amazonredshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white"> </br>
   </br>
